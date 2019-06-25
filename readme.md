@@ -21,5 +21,18 @@ Our results of testing showed that we managed to design and implemented a system
 <br> <b>SQL</b>	        : stands for Structured Query Language. SQL is used to communicate with a database.[7]
 <br> <b>HTTP </b>       : HTTP is the underlying protocol used by the World Wide Web and this 	protocol defines how messages are formatted and transmitted, and what 	actions Web servers and browsers should take in response to various 	commands.
 
-
+<p align="center"><b>Arjin Zilan DEMİREL<a href="https://github.com/zilandemirell"> @zilandemirell</a>
+    <br>Enise İrem ÇOLAK <a href="https://github.com/eniseirem"> @eniseirem </a>
+<br>
+    <a href="https://bau.edu.tr/">Bahcesehir University</a>
+<br>
+Faculty of Engineering and Natural Sciences
+Department of Software Engineering 
+<br>
+Advisor: Asst. Prof. Tamer Uçar
+<br>
+May, 2019
+<br>
+    </b>
+</p>
 
